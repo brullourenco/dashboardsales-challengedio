@@ -32,3 +32,4 @@ Criar a segunda página do relatório
 
 Publique o seu relatório no Power BI Service
 ```
+![image](https://github.com/brullourenco/dashboardsales-challengedio/assets/93550349/ca086ef3-97c2-4080-9c6c-dee74b8bf811)
