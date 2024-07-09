@@ -28,8 +28,14 @@ Segmentadores de dados
 ```
 Lembre-se de:
 ```
-Criar a segunda página do relatório 
+Criar a terceira página do relatório 
 
 Publique o seu relatório no Power BI Service
 ```
+
 ![image](https://github.com/brullourenco/dashboardsales-challengedio/assets/93550349/ca086ef3-97c2-4080-9c6c-dee74b8bf811)
+
+![image](https://github.com/brullourenco/dashboardsales-challengedio/assets/93550349/7a021318-0702-4c5b-8827-1468c556f3fa)
+
+![image](https://github.com/brullourenco/dashboardsales-challengedio/assets/93550349/5e71bf73-a0ff-426c-91f3-5d8860461e6f)
+
